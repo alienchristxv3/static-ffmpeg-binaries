@@ -1,4 +1,4 @@
-ffmpeg: n4.4
+ffmpeg: 5
 libvpx: v1.9.0
 aom: v3.1.2
 x264: bfc87b7a
